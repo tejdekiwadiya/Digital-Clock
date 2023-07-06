@@ -1,0 +1,2 @@
+# Digital Clock
+The Digital Clock project is a sleek and functional web application created using JavaScript, HTML, and CSS. It displays the current time in a visually appealing digital format. The clock updates in real-time, providing users with an accurate representation of the current time. With its responsive design, the clock adapts seamlessly to different screen sizes and devices. The project showcases the power of JavaScript in creating dynamic and interactive elements, offering a practical and visually pleasing way to keep track of time.
